@@ -1,0 +1,16 @@
+{
+	"name": "occult-friend",
+	"description": "occult friend",
+	"author": "A confused individual <renatomoitinhodias@gmail.com>",
+	"dependencies": {
+		"express": "3.12.0",
+        "express-session": "*",
+		"underscore": "*",
+		"jade": "*",
+		"sqlite3": "*",
+		"promise":"*",
+        "body-parser":"*",
+        "cookie-parser":"*",
+        "multer":"*"
+    }
+}
